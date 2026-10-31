@@ -2,7 +2,7 @@ import React from 'react'
 import Car from './MyCar';
 
 const MyCar = () => {
-const cars = ['Bolero','Scorpio','XUV',"Tesla",'V']
+const cars = ['Bolero','Scorpio','XUV',"Tesla",'Ve']
 
   return (
     <div>
